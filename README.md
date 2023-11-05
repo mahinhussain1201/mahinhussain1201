@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahin Hussain
 -  I'm student of Indian Institute of Technology
-- 👀 I’m interested in Coding and Cars
+- 👀 I’m interested in Coding
   
 
 
